@@ -16,7 +16,7 @@
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/ftendurus/Flutter-ChatApp.git
+git clone https://github.com/ftendurus/nApptin-ChatApp.git
 ```
 
 Install Flutter and project dependencies:
