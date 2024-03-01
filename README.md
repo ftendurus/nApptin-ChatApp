@@ -35,9 +35,9 @@ flutter run
 ```
 
 ## Technologies Used
-Flutter
-Firebase Authentication
-Cloud Firestore
+- Flutter
+- Firebase Authentication
+- Cloud Firestore
 
 ### Contributing
 Contributions are welcome. Please open an issue in the discussion section before making significant changes.
